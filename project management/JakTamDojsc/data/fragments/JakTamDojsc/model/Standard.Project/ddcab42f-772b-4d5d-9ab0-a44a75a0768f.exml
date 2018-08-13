@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="JakTamDojsc" version="4">
+  <OBJECT>
+    <ID name="JakTamDojsc" mc="Standard.Project" uid="ddcab42f-772b-4d5d-9ab0-a44a75a0768f"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[JakTamDojsc]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="jaktamdojsc" mc="Standard.Package" uid="78ebedef-5f02-4be4-af4c-832a3b6b67bf"/>
+        <COMPID name="Use Cases" mc="Standard.Package" uid="3406bb5f-6ced-410e-86f8-149f7d1678d3"/>
+        <COMPID name="Class Diagram" mc="Standard.Package" uid="14a3fc63-651f-4af3-87a9-55ddab71cfe3"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="JakTamDojsc" mc="Infrastructure.DiagramSet" uid="c03aac1d-f696-4000-8785-e82b63e00292"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

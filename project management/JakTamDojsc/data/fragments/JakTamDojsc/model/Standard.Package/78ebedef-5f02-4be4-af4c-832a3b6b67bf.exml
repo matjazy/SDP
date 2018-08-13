@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="jaktamdojsc" version="4">
+  <OBJECT>
+    <ID name="jaktamdojsc" mc="Standard.Package" uid="78ebedef-5f02-4be4-af4c-832a3b6b67bf"/>
+    <PID name="JakTamDojsc" mc="Standard.Project" uid="ddcab42f-772b-4d5d-9ab0-a44a75a0768f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[jaktamdojsc]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

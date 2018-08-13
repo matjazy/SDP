@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Class Diagram" version="4">
+  <OBJECT>
+    <ID name="Class Diagram" mc="Standard.Package" uid="14a3fc63-651f-4af3-87a9-55ddab71cfe3"/>
+    <PID name="JakTamDojsc" mc="Standard.Project" uid="ddcab42f-772b-4d5d-9ab0-a44a75a0768f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Class Diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Main" mc="Standard.Class" uid="ff4aaf8a-3d7d-4b62-9238-2a743b7e41cb"/>
+        <COMPID name="Service" mc="Standard.Class" uid="847ab5d2-abf3-4060-85be-3f8f3461c27e"/>
+        <COMPID name="Target" mc="Standard.Class" uid="267decb2-c552-479f-a7d4-df00636868b7"/>
+        <COMPID name="Checkpoint" mc="Standard.Class" uid="735e420e-3dab-48d6-a7a1-b0dc9987b285"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Class Diagram Class diagram" mc="Standard.ClassDiagram" uid="c8f51fe7-a06b-4dcc-b835-c1908575f57f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

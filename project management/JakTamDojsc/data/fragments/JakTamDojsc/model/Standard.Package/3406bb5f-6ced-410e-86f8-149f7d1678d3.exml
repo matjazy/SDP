@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Use Cases" version="4">
+  <OBJECT>
+    <ID name="Use Cases" mc="Standard.Package" uid="3406bb5f-6ced-410e-86f8-149f7d1678d3"/>
+    <PID name="JakTamDojsc" mc="Standard.Project" uid="ddcab42f-772b-4d5d-9ab0-a44a75a0768f"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Use Cases]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="System" mc="Standard.Actor" uid="e1adcc69-08e2-4451-891a-61b627c57e40"/>
+        <COMPID name="UC1: Select target" mc="Standard.UseCase" uid="89ced56a-590a-4bd7-92c3-be53e33b7382"/>
+        <COMPID name="UC2: Set checkpoints" mc="Standard.UseCase" uid="accd9233-64f3-4bc8-8b78-43104724a928"/>
+        <COMPID name="UC3: Change a target" mc="Standard.UseCase" uid="f12488da-d1bb-4eb6-8fb3-44c4db064964"/>
+        <COMPID name="UC4: Resign from a target" mc="Standard.UseCase" uid="19b321ce-1158-42a8-bd1a-9e2d2d5ebed4"/>
+        <COMPID name="Client" mc="Standard.Actor" uid="8d1f2bd3-556d-4a03-8bc2-994f510eaf4c"/>
+        <COMPID name="UC5: Save information about destination" mc="Standard.UseCase" uid="e35861c8-9a59-4aae-942d-0c0b41d1f8c8"/>
+        <COMPID name="UC6: Save information about product's quality" mc="Standard.UseCase" uid="233c71cf-b7ec-4e52-9f52-1b53317b8905"/>
+        <COMPID name="Display most targeted places" mc="Standard.UseCase" uid="5b49b8a8-79b6-4f22-a444-71bf88d9e3ce"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Use Cases Use Case diagram" mc="Standard.UseCaseDiagram" uid="dad8b1d4-094c-41f7-a056-3fa004e4d616"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
